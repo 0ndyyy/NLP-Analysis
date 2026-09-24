@@ -9,3 +9,7 @@ regex==2026.7.19
 scikit-learn==1.9.0
 scipy==1.18.0
 spacy==3.8.15
+
+Zusätzliche NLP-Ressourcen:
+- spaCy: de_core_news_lg
+- NLTK: stopwords
