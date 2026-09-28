@@ -13,3 +13,6 @@ Im Anschluss werden beide Pipelines (BoW - LDA - TF-IDF & TF-IDF - LSA) durchlau
 Das Skript benötigt eine Themenrange, die per default auf min. 2 und max. 10 eingestellt ist.
 Die Variablen min_topics & max_topics können entsprechend angepasst werden.
 Eine höhere Range geht hierbei mit einer höheren Trainingszeit einher.
+
+Alle benötigten dependencys sind in dependencys_detailed.txt aufgelistet.
+Für eine weniger detailreiche Ansicht wird auf dependencys_short.txt verwiesen.
