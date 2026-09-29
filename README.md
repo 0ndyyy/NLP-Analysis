@@ -1,7 +1,7 @@
 # NLP-Analysis
 
 Im Repository befindet sich das IU Projekt zur NLP-Analyse von unstrukturierten Daten.
-Die nlp-pipeline.py beinhaltet den Quellcode zur Analyse.
+Die nlp.py beinhaltet den Quellcode zur Analyse.
 
 data_path muss hierbei den Dateipfad zur Datenquelle beinhalten.
 Die Datenquelle besteht aus ~220 Tickets und ist in der public_tickets_final.csv zu finden.
